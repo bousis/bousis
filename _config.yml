@@ -1,0 +1,21 @@
+title: Thanos Bousis
+email: Thanos.Bousis@gmail.com
+description: Hello i am Thanos Bousis and this is my journey learning to code.
+baseurl: ""
+url: "https://bousis.github.io"
+twitter_username: _bousis
+github_username: bousis
+
+markdown: kramdown
+permalink: /:title
+highlighter: pygments
+fb_admins: https://www.facebook.com/thanos.bousis
+fb_appid: 1093841483979273
+
+defaults:
+  -
+    scope:
+      path: "" 
+      type: "posts"
+    values:
+      layout: "post"
